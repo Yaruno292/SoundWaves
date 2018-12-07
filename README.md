@@ -6,7 +6,7 @@ A line of cubes that stretch on the music.
 * Alt + F4 to close
 
 # Info
-I created this for my game called Distortion.
+I created this for my game called Distortion. <br>
 I wanted to create a map that reacted to the music it plays.
 
 # Download
